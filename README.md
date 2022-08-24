@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hafiz,
+- 👋 Hi, I’m Hafiz
 - 👀 I’m interested in Mobile development
 - 🌱 I’m currently learning swiftUI
 - 💞️ I’m looking to collaborate on Android/IOS projects
