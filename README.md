@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hafiz
+- 👋 Hi, I’m Mo
 - 👀 I’m a software developer
 - 🌱 I’m currently learning swift and experimenting with swiftUI and UIKit
 - 💞️ I’m looking to collaborate on Mobile App projects
