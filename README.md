@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mo
 - 👀 I’m a software developer
 - 🌱 I’m currently learning swift and experimenting with swiftUI and UIKit
+- also learning ds & algo
 - 📫 Check out my personal Website https://mofiz.dev
 
 <!---
